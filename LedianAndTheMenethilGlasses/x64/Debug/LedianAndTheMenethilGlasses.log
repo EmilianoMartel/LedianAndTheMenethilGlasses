@@ -1,2 +1,6 @@
 ﻿  LedianAndTheMenethilGlasses.cpp
-  LedianAndTheMenethilGlasses.vcxproj -> C:\Users\emi_p\OneDrive\Desktop\LedianAndTheMenethilGlasses\x64\Debug\LedianAndTheMenethilGlasses.exe
+C:\Users\emi_p\OneDrive\Desktop\LedianAndTheMenethilGlasses\Ledian\LedianAndTheMenethilGlasses\LedianAndTheMenethilGlasses.cpp(160,32): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\emi_p\OneDrive\Desktop\LedianAndTheMenethilGlasses\Ledian\LedianAndTheMenethilGlasses\LedianAndTheMenethilGlasses.cpp(161,32): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\emi_p\OneDrive\Desktop\LedianAndTheMenethilGlasses\Ledian\LedianAndTheMenethilGlasses\LedianAndTheMenethilGlasses.cpp(165,25): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\emi_p\OneDrive\Desktop\LedianAndTheMenethilGlasses\Ledian\LedianAndTheMenethilGlasses\LedianAndTheMenethilGlasses.cpp(166,25): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  LedianAndTheMenethilGlasses.vcxproj -> C:\Users\emi_p\OneDrive\Desktop\LedianAndTheMenethilGlasses\Ledian\x64\Debug\LedianAndTheMenethilGlasses.exe
